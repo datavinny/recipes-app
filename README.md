@@ -27,11 +27,6 @@ Neste projeto, foi testado habilidades de:
 - Utilizar o React Hook useEffect
 - Criar Hooks customizados
 
-### Data de entrega
-
-- Projeto em grupo;
-- Foram 7 dias de projeto;
-
 ## Creditos
 - Eu (@datavinny)
 - Felipe Rangel (@FlipRAM)
